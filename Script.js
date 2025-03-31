@@ -1,10 +1,11 @@
 let products = {};
 
+// testing the product search
+
 products.keywords = [ "+boxer"];
 products.categories = ["Accesories"];
 products.sizes = ["small"];
 products.colors = [ "white"];
-
 
 let billing = {};
 billing.billing_name = "aidan sherwood ";
